@@ -1,0 +1,15 @@
+{
+  "name": "watson-sing",
+  "version": "1.0.0",
+  "description": "watson-text-to-speech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^4.8.0",
+    "watson-developer-cloud": "^3.0.3"
+  }
+}
